@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Owais
 
-<!--
-**Owais-exe/Owais-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Gamer | 💻 Beginner Developer | 📚 PCM Student
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 17-year-old student interested in coding, gaming and technology.
+
+- 🎮 BGMI Player
+- 🕹️ PlayStation 2 Fan
+- 💻 Learning HTML, CSS & JavaScript
+- 🎵 Music Lover
+- 🚀 Building websites and games
+
+## 🚀 My Projects
+
+- 🚀 Neon Space Shooter
+- 🧠 2 Player Memory Game
+
+## 🛠️ Skills I'm Learning
+
+HTML • CSS • JavaScript • GitHub
+
+## 🌐 Connect With Me
+
+📸 Instagram: instagram.com/owais._.in
+
+---
+
+⭐ Thanks for visiting my profile!
