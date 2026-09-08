@@ -16,7 +16,7 @@ I'm a 17-year-old student interested in coding, gaming and technology.
 
 - 🚀 Neon Space Shooter
 - 🧠 2 Player Memory Game
-
+- ⚡ Typing Pro
 ## 🛠️ Skills I'm Learning
 
 HTML • CSS • JavaScript • GitHub
